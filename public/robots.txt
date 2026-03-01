@@ -1,0 +1,15 @@
+# robots.txt — Martial Arts and Multi Sports Club, Tenkasi
+# Generated for: https://martialartsclub.lovable.app
+
+User-agent: *
+Allow: /
+
+# Block any sensitive or irrelevant paths
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+Disallow: /*.json$
+
+# Sitemap location
+Sitemap: https://martialartsclub.lovable.app/sitemap.xml
